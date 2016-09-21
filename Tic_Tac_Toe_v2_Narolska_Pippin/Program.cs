@@ -25,7 +25,7 @@ namespace Tic_Tac_Toe_v2_Narolska_Pippin
 
             Console.SetCursorPosition(0, 3);
 
-            Console.Write("\t\t|---+---+---|\n");
+            Console.Write("\t\t|---+-- -+---|\n");
 
             for (int i = 0; i < 3; i++)
             {
